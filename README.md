@@ -1,2 +1,2 @@
-# iSDC-Translate_Python_Cpp
-The goal of this project is to take the python code we wrote when we implemented the two dimensional histogram filter and translate it into C++
+# iSDC-P2-Translate-Python-Cpp
+Repository for P2 of iSDC - Translate Python to C++
